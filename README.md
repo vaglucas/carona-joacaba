@@ -20,9 +20,6 @@ Aluno: Vagner Lucas Gomes - 114256
     * Motivos: Disponibilidade, custos, documentação, inteface amigavel, comunidade.
 
 -------
-Aqui está o texto enriquecido com marcação Markdown:
-
----
 
 ## **Motivação**
 
