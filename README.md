@@ -12,7 +12,8 @@ Alunos: Vagner Lucas Gomes - 114256
 -------
 #### [Documentaçao](doc/Projeto%20carona%20joaçaba.drawio%20(1).pdf)
 
-#### [implementação] (https://github.com/vaglucas/carona_unoesc)
+#### [implementação backend] (https://github.com/vaglucas/carona_unoesc)
+#### [implementação app] (https://github.com/vaglucas/app_carona)
 --------
 
 ## Infra:
