@@ -5,8 +5,7 @@ Professor: Roberson Junior Fernandes Alves
 
 Curso: Análise e desenvolvimento de Sistemas (Joaçaba)
 
-Alunos: Vagner Lucas Gomes - 114256
-      Amanda Ximendes de Lima - 426628
+Alunos: Vagner Lucas Gomes - 114256 
 
 
 -------
